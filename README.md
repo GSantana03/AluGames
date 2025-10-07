@@ -28,3 +28,29 @@ Ao clicar novamente, ele retorna ao estado inicial.
 ---
 
 ## 📁 Estrutura do projeto
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento, foram praticados conceitos como:
+
+- Seletores de elementos no DOM (`querySelector`, `getElementById`)
+- Manipulação de classes com `classList.add()` e `classList.remove()`
+- Alteração de conteúdo dinâmico com `textContent`
+- Estruturação de funções reutilizáveis em JavaScript
+
+---
+
+## 💡 Melhorias futuras
+
+- Adicionar animações e efeitos visuais  
+- Armazenar o status dos jogos no **LocalStorage**  
+- Criar uma página de detalhes para cada jogo  
+
+---
+
+## 👨‍💻 Autor
+
+**Gustavo Santana**
+
+💼 Projeto criado para fins de estudo e prática em desenvolvimento front-end.
